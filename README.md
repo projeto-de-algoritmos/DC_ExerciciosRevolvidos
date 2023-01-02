@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# DC_ExerciciosResolvidos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                         |
+| ---------- | ----------------------------- |
+| 17/0013987 | João Victor de Oliveira Matos |
+| 17/0011119 | Geraldo Victor Alves Barbosa  |
+
+## Sobre
+
+Exercicios resolvidos sobre o conteúdo de Dividir e Conquistar.
+
+Foram selecionados 4 exercícios de nível médio do site [leetcode](https://leetcode.com/), sendo eles:
+
+-   [Longest substring](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)
+-   [Maximum sum subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)
+-   [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+-   [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![Screenshot 1](assets/162.png)
+![Screenshot 1](assets/918.png)
+![Screenshot 1](assets/973.png)
+![Screenshot 1](assets/395.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Apresentação
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+[Apresentação]()
