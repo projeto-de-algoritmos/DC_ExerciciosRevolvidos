@@ -17,7 +17,7 @@ public:
         // armazena a soma maxima do subarray que termina na posicao atual
         int maximo_final_atual = 0;
     
-        // traverse the given array
+        // passa pelo array
         for (int i = 0; i < n; i++)
         {
             // atualiza a soma maxima do subarray "terminando" no índice `i` (adicionando o
