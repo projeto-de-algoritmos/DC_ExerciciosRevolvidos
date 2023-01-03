@@ -30,4 +30,4 @@ Foram selecionados 4 exercícios de nível médio do site [leetcode](https://lee
 
 ## Apresentação
 
-[Apresentação]()
+[Apresentação](assets/apresentacao.mp4)
